@@ -28,4 +28,23 @@ header{
 
 /*-------main-------*/
 
+#central-column{
+    border: 1px;
+    border-style: solid;
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+/*button 1*/
+#button1{
+    
+}
+/*button 2*/
 
+#central-header{
+
+}
+#central-body{
+
+}
