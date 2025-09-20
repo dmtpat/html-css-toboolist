@@ -38,11 +38,24 @@ header{
 }
 /*button 1*/
 #button1{
-    
+    background-color: cornflowerblue;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
 }
 /*button 2*/
+#button2{
+    color: darkgray;
+    padding: 4px;
+}
 
 #central-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: darkgray;
+    border-bottom: solid;
 
 }
 #central-body{
