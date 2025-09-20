@@ -12,6 +12,7 @@
 header{
     height: 100px;
     vertical-align: middle;
+    background-color: white;
 }
 #logo{
     height: 100px;
@@ -28,9 +29,15 @@ header{
 
 /*-------main-------*/
 
+body{
+    background-color: lightgray;
+}
+
 #central-column{
+    background-color: white;
     border: 1px;
     border-style: solid;
+    border-color: darkgray;
     width: 60%;
     margin-top: 10%;
     margin-left: 20%;
@@ -42,11 +49,15 @@ header{
     color: white;
     padding: 4px;
     border-radius: 4px;
+    border-color: cornflowerblue;
 }
 /*button 2*/
 #button2{
     color: darkgray;
+    background-color: white;
     padding: 4px;
+    border-radius: 4px;
+    border-color: darkgray;
 }
 
 #central-header{
@@ -54,10 +65,18 @@ header{
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    border-bottom: darkgray;
-    border-bottom: solid;
+    border-bottom-color: darkgray;
+    border-bottom-width: 2px;
+
 
 }
 #central-body{
+    width: 70%;
+    margin: auto;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
 
 }
+
